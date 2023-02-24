@@ -16,7 +16,7 @@
 4. تغییرات رو `commit` و `push` کنید 
 5. یک `branch` جدید به اسم `first-branch` بسازید 
 6. فایل MyResume.txt  رو تغییر بدید و در  انتهای فایل، شماره دانشجوییتون رو وارد کنید 
-7. درخواست `Pull Request` را بر اساس این [آموزش](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests\t) ارسال نمایید
+7. درخواست `Pull Request` را بر اساس این [آموزش](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)ارسال نمایید
 8. و در نهایت به تی ای گروهتون اطلاع دهید تا درخواست را با برنچ اصلی مرج کند
 9. یک برنچ دیگر به نام code بسازید و فایل کد سوال Programming is Google & Google is Programming تمرین صفر خود را در آن کامیت و سپس پوش کنید و مجددا درخواست پول ریکوئست بزنید.
 10. به تی ای گروه اطلاع داده تا کارهایی که تا الان انجام داده‌اید را بررسی نماید و در صورت درست بودن فرایند، بعد از مرج کردن برنچ شما با برنچ اصلی نمره تمرین را برای شما اعمال کند!
