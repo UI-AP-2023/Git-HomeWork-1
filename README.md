@@ -5,10 +5,14 @@
 اگه هنوز با گیت هاب آشنا نیستید میتونید 
 از طریق لینک های زیر کار باهاشون رو یادبگیرید.
 
-+ [آموزش رایگان گیت - جادی](https://faradars.org/courses/fvgit9609-git-github-gitlab)
-+ [آموزش رایگان گیت در ویندوز و لینوکس](https://gotoclass.ir/courses/git/)
++ [آموزش رایگان گیت - جادی ( فارسی ) ](https://faradars.org/courses/fvgit9609-git-github-gitlab)
++ [آموزش رایگان گیت در ویندوز و لینوکس - فارسی ](https://gotoclass.ir/courses/git/)
++ [آموزش مقدماتی گیت در یک ساعت - انگلیسی ] ()
 + [دستورات پرکاربرد گیت](https://dzone.com/articles/top-20-git-commands-with-examples)
-
++ [منبع اصلی مستندات گیت] (https://git-scm.com/book/en/v2/)
++ [دوره ویدئویی ۱۷ ساعت گیت پیشرفته و جامع برای کسایی که دوست دارن بیشتر کار کنن ] (https://downloadly.ir/elearning/video-tutorials/the-git-github-bootcamp-2/)
+  
+  
 کارهای که میبایست برای این فاز انجام بدید: 
 1. یک اکانت داخل سایت [github](https://github.com/) درست کنید
 2. از این ریپوزیتوری کلون بگیرید
